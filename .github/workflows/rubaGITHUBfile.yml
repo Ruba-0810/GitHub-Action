@@ -1,0 +1,11 @@
+name: first
+on: push
+jobs:
+ project:       #name of the code 
+  runs-on: ubuntu-latest
+  steps:
+  - name: first project   #name of the code 
+    run: echo "RUBAVATHY"
+ 
+ 
+ 
